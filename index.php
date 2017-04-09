@@ -23,7 +23,7 @@ for ($i=1; $i<=$step; $i++)
     echo "<br>";
     echo $fact;
 }
-
+   echo "<br>";
    echo '<a href="about.html"> ССылка </a>';
 
 ?>
