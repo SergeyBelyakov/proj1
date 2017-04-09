@@ -24,5 +24,6 @@ for ($i=1; $i<=$step; $i++)
     echo $fact;
 }
 
+   echo '<a href="about.html"> ССылка </a>';
 
 ?>
